@@ -1,0 +1,25 @@
+analytics-id: 
+#Pages
+pages:
+  - {name: 'Episodes', link: 'episodes.html'}
+  - {name: 'Concept', link: '#'}
+  - {name: 'Influences', link: 'https://github.com/platinarock'}
+
+social:
+  - {icon: 'instagram', type: "brand", link: '#'}
+  - {icon: 'facebook', type: "brand", link: '#'}
+  - {icon: 'youtube', type: "brand", link: '#'}  
+  - {icon: 'envelope', type: "solid", link: 'mailto:pierrelequere2@gmail.com'}
+  - {icon: 'rss', type: "solid", link: "#"}
+
+websites-podcast:
+  - {name: 'Spotify', link: '#'}
+  - {name: 'YouTube', link: '#'} 
+  - {name: 'RSS', link: '#'}
+
+translate-date: true #See _includes/date.html to translate the months' name
+shownotes: true
+
+#Disqus
+disqus:
+  disqus_shortname: 
