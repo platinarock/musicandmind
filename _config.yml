@@ -3,7 +3,7 @@ title: "Music and Mind"
 description: "Podcast"
 podcast-description: "Movie and music podcast"
 url:  "https://localhost:4000/" # Actual base url of the website
-baseurl: "/"                    # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
+baseurl: "musicandmind"         # url of the jekyll blog. e.g. if you set url to "mysite.com" and baseurl to "blog", the jekyll website will work on "mysite.com/blog"
 author:
   name: "Pierre Le Quere"
   email: "pierrelequere2@gmail.com"
